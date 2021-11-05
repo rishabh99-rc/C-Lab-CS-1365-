@@ -1,5 +1,6 @@
 # OOP-Lab-(CS-1365)
-CS-1365 Object Oriented Concepts &amp; Programming using C++ Lab (B. Tech III Semester)
+CS-1365 Object Oriented Concepts &amp; Programming using C++ Lab (B. Tech III Semester) 
+</br>(Complete Lab Manual: https://github.com/rishabh99-rc/OOP-Lab-CS-1365/blob/main/CS1365%20C%2B%2B_LABMANUAL_2020.pdf)
 
 ![0001](https://user-images.githubusercontent.com/55506770/140483598-a78a25ff-0e89-4fa8-81d9-4b92b248277d.jpg)
 ![0002](https://user-images.githubusercontent.com/55506770/140483618-42a0bbad-2aa9-4684-adb6-e64c32ba453d.jpg)
